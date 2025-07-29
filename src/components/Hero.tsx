@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
             প্যাকেজ দেখুন
           </a>
           <a 
-            href="https://wa.me/8801917834820" 
+            href="https://wa.me/8801877104723" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-green-500 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-green-400 transition-colors"
